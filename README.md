@@ -1,5 +1,5 @@
-# COMP723_DataMining
-Contains my assignments and other lab-related work.
+# DataMiningProjectFiles
+Contains my academic-projects.
 
 The following are contained inside the Assignments folder:
 
